@@ -1,0 +1,16 @@
+{
+  "name": "wa-auto",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": "soulsam480",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "@open-wa/wa-automate": "^2.0.25"
+  }
+}
